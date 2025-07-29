@@ -4,6 +4,7 @@
 
 ---
 
+
 ### 🧑‍💻 About Me
 
 I'm a passionate software developer with a strong focus on backend development, clean code principles, and domain-driven design. I enjoy solving real-world problems, building scalable systems, and learning new technologies through hands-on projects.
@@ -48,4 +49,7 @@ I'm a passionate software developer with a strong focus on backend development, 
 
 ---
 
-*Always building. Always learning.*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
