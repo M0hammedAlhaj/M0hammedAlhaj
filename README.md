@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<p align="center">Backend Developer | Clean Architecture Enthusiast | DDD Practitioner</p>
+<p align="center">FullStack Developer | Spring Boot | React | Problem Solver
+ </p>
 
 ---
 
