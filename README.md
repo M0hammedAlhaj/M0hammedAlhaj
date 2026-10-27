@@ -1,6 +1,5 @@
 
-# Hi 👋, I'm Mohammed Alhaj
-
+<h1 align="center">Hi 👋, I'm Mohammed Alhaj</h1>
 <p align="center">
   <strong>Backend Software Engineer | Java & Spring Boot</strong>
   <br>
